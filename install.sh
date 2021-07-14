@@ -1,0 +1,1 @@
+sudo cp dumpweb.py /usr/bin/dumpweb && sudo chmod a+x /usr/bin/dumpweb && dumpweb --help
