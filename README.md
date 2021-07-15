@@ -7,7 +7,8 @@ _for dump an static website_
 ## to install
 
 ```
-git clone 
+git clone https://github.com/0x07CB/dumpweb.git
+cd dumpweb/
 bash install.sh
 ```
 _the location of this script is at `/usr/bin/` with the name `dumpweb`_ 
