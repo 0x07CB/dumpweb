@@ -31,3 +31,13 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 ```
+
+
+## to use
+
+exemple
+
+```
+dumpweb www.website.com
+```
+_that create an folder, inside all the stuff have been dump (if static)_
