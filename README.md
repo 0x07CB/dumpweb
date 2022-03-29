@@ -9,9 +9,18 @@ _for dump an static website_
 ```
 git clone https://github.com/0x07CB/dumpweb.git
 cd dumpweb/
-bash install.sh
+./install.sh
 ```
+
 _the location of this script is at `/usr/bin/` with the name `dumpweb`_ 
+
+
+## force re-install
+
+```
+./install.sh -f
+```
+
 
 ## show the help
 
